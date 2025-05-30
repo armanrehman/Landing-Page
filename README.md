@@ -1,6 +1,6 @@
 # 🖥️ Landing Page Project
 https://armanrehman.github.io/Landing-Page/
-This is a simple, responsive landing page built from scratch using **HTML** and **CSS**, as part of my learning journey through The Odin Project. The goal was to practice frontend skills and create a visually appealing webpage.
+This is a simple, responsive landing page built from scratch using **HTML** and **CSS**, as part of my learning journey through The Odin Project. The goal was to practice frontend skills and create a visually appealing webpage. Learnt about version control, including the importance of maintaining a clear commit history and writing meaningful commit descriptions (will apply extensively, formally and properly in future projects)
 
 ## 🌟 Features
 - Responsive design using Flexbox
